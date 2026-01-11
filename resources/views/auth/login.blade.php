@@ -144,11 +144,7 @@
             </button>
         </form>
         
-        <div class="demo-info">
-            <h3>Identifiants de test :</h3>
-            <p><strong>Email:</strong> <code>admin@deutschmohammed.com</code></p>
-            <p><strong>Mot de passe:</strong> <code>admin123</code></p>
-        </div>
+      
     </div>
 </body>
 </html>
